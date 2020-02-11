@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  color: #F98C51;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Gupter', serif;
+  color: #F98C51;
+}
+
+h3 {
+  color: #F98C51;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C3A69E;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #fcf9ea;
+  position: relative;
+  padding-top: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 100px
+}
+
+.name {
+  font-size: 5rem;
+  margin: 50px auto 15px;
+}
+
+.title {
+  margin: 0 auto 45px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.profile {
+  text-align: center;
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.skills {
+  margin: 100px auto 50px;
+}
+
+.skill-row-1 {
+  width: 50%;
+  margin: 30px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  width: 50%;
+  margin: 50px auto 130px;
+  text-align: left;
+  line-height: 2;
+}
+
+.laptop-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.notebook-img {
+  float: right;
+  margin-left: 30px
+}
+
+.contact-me {
+  margin: 100px auto;
+}
+
+.contact {
+  margin: 50px auto;
+}
+
+.myButton {
+	background-color:#FA928C;
+	border-radius:8px;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:16px;
+	padding:15px 35px;
+	text-decoration:none;
+}
+
+.myButton:hover {
+	background-color:#F98C51;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #fcf9ea;
+  color: #fa928c;
+  padding: 50px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0 0 0;
+}
